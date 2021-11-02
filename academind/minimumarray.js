@@ -7,8 +7,5 @@ function getMin(numbers) {
     }
     return currentMin;
 }
-
-
-
 console.log(getMin([1,2,3]))
 console.log(getMin([4,7,13 ]))
